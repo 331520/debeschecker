@@ -72,5 +72,5 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 DebesChecker.iml
-pom.xml
-src/
+
+
